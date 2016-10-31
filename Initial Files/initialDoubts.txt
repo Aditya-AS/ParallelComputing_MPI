@@ -1,0 +1,16 @@
+What is Valid News??
+
+How source of news is to be emulated? i.e. How does the Reporter process work
+
+Why should a reporter know others working on the same news?
+
+How do editors decide which news to publish??
+
+
+Scalability in terms of what?? In terms of number of editors and reporters??
+
+
+
+Is there a tool for performance analysis?? Vampir Trace.
+
+Can we access the nodes from our rooms or should we always come to the lab and run our codes there???
